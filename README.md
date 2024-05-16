@@ -8,6 +8,6 @@ To use:
     - TMODB
         - Your DB name provided from TMO support
     - LOANDATASHEETID
-        - The ID of your copied Google Sheet --> (https://docs.google.com/spreadsheets/d/(SHEET ID LOCATED HERE)/edit?usp=sharing)
+        - The ID of your copied Google Sheet --> (https://docs.google.com/spreadsheets/d/(SHEET-ID-LOCATED-HERE)/edit?usp=sharing)
     - HISTORYBACKDATE
         - The date of the oldest historical records to pull (example: '1-1-2018')
