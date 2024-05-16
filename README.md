@@ -2,7 +2,7 @@ Google Sheets template w/ scripts: https://docs.google.com/spreadsheets/d/1Md1Hd
 
 To use:
 - Make copy of the sheet linked above
-- Define user-defined constants at top of "tmoAPI-to-gSheet.gs" script
+- Define user-defined constants at top of "tmoAPI-to-gSheet.gs" script (Apps Script editor)
     - TMOAPIKEY
         - Your API key provided from TMO support
     - TMODB
