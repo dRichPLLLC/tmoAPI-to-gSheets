@@ -23,3 +23,4 @@ Getting Started
 Suggestions
 -----------------------------------------
 - Create a project trigger to run the "asyncUpateAllData" function on a regular basis
+- Create Looker Studio dashboards on top of queried data
