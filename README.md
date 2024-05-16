@@ -1,4 +1,4 @@
-Google Sheets template w/ scripts: https://docs.google.com/spreadsheets/d/1Md1Hdogico3IWRuV_nTWFIc6G9NmyzASx1weBnfl8yA/edit?usp=sharing
+Google Sheets template w/ scripts: <a href="https://docs.google.com/spreadsheets/d/1Md1Hdogico3IWRuV_nTWFIc6G9NmyzASx1weBnfl8yA/edit?usp=sharing" target=_blank>
 
 To use:
 - Make copy of the sheet linked above
