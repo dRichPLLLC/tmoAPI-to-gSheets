@@ -1,3 +1,7 @@
+/**
+ * User-defined Constants
+ */
+
 // TMO API Data
 const TMOAPIKEY = '<DEFINE>'
 const TMODB = '<DEFINE>'
@@ -11,6 +15,10 @@ const HISTORYBACKDATE = '<DEFINE>'
 
 // ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
 
+
+/**
+ * Constants/Variables
+ */
 
 // Async data
 const ASYNCLOANDATATABNAME = 'asyncLoanData'
@@ -62,6 +70,13 @@ var TMOLENDERS = null
 const GETLENDERHISTORYURL = 'https://api.themortgageoffice.com/v1/LSS.svc/GetLenderHistory'
 const LENDERHISTORYTABNAME = 'Lender History'
 
+
+// ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------ ------------
+
+
+/**
+ * Functions
+ */
 
 /**
  * Async Update
