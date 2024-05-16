@@ -15,3 +15,7 @@ Getting Started
         - The date of the oldest historical records to pull (example: '1-1-2018')
 
 - Run "asyncUpdateAllData" function to populate all data
+
+Suggestions
+-----------------------------------------
+- Create a project trigger to run the "asyncUpateAllData" function on a regular basis
